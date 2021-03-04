@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.TestRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 9.22 s <<< FAILURE! - in TestRunner.TestRunnerTest
+Title of your scenario(clogin)  Time elapsed: 6.852 s  <<< FAILURE!
+org.junit.ComparisonFailure: HomePage title is not as expected expected:<...e click logout below[]> but was:<...e click logout below[.]>
+
